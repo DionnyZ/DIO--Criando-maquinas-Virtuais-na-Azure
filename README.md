@@ -4,7 +4,7 @@ Esse desafio teve como objetivo criar um resumo do que foi apresentado sobre a d
 
 Os serviços possuem um acordo de tempo de inatividade aceitável em diferentes níveis. O SLA (Service Level Agreement) é o nível do acordo de disponibilidade, onde cada nível possui um determinado tempo de inatividade aceitável. Caso o serviço fique indisponível por mais tempo que o garantido, o cliente será ressarcido com créditos para serem utilizados na Azure.
 
-### Tabela com o tempo de inatividade:
+### Tabela com o tempo de inatividade aceitável:
 | SLA     | Semana       | Mês           | Ano           |
 |---------|--------------|---------------|---------------|
 | 99%     | 1,68 horas   | 7,2 horas     | 3,65 dias     |
